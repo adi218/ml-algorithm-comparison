@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="dd20c52c-3cd0-4450-8780-48c99bf3ab1f" name="Myaws" url="http://18.218.9.187">
+        <fileTransfer host="18.218.9.187" port="22" rootFolder="/home/carnd" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
